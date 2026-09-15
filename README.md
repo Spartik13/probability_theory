@@ -4,4 +4,4 @@
 ---
 [Открыть практику](dz_obyaz.ipynb)  
 ---
-[Открыть ноутбук для GitHub](dz_high.ipynb)
+**[Открыть ноутбук для GitHub](dz_high.ipynb)**
