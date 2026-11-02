@@ -5,3 +5,11 @@
 [Открыть практику 1](dz_obyaz.ipynb)  
 ---
 **[Открыть ноутбук 1 для GitHub](dz_high.ipynb)**
+
+[Открыть 2 ноутбук](dz_high2.ipynb)
+
+[Открыть 3 ноутбук](dz_high3.ipynb)
+
+[Открыть 4 ноутбук](dz_high4.ipynb)
+
+[Открыть 5 ноутбук](dz_high5.ipynb)
